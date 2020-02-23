@@ -18,4 +18,4 @@ function dispatch(action){
   render()
 }
 
-dispatch({type: INCREASE_COUNT})
+dispatch({type: 'INCREASE_COUNT'})
