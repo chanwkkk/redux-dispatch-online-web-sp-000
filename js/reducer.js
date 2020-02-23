@@ -19,4 +19,4 @@ function dispatch(action){
 }
 
 render()
-dispatch()
+dispatch({type: INCREASE_COUNT})
