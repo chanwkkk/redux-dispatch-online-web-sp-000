@@ -19,3 +19,4 @@ function dispatch(action){
 }
 
 render()
+dispatch()
